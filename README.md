@@ -2,17 +2,16 @@
 
 ## Background Story
 
+## Purpose of App
+- To decrease the numbers of people been scammed by the kpop scammer
+- Create a new community for people to share their wts/wtt/wtb post with cleaner view, and eaiser filter feature with sorting in timestamp of the post
+- Distinguish the wts/wtt/wtb/go content in separate page for narrow down the filter.
 
 ## Problem found in other platform
 - IG's new sorting feature under the #wts post makes user's post not having enough exposure after they make the post. Lot of user give up using #wts or #wtt hashtag due to their post exposure significally decrease. While other social media platform have smaller community size.
 - Mercari, eBay and other ecommerce platform are all safe platform for making the buy and sell transaction, but they have 2 disadvantages
     - Seller and buyer fee that increase the value of user trying to make the purchase or selling
     - There's no option for user to trade kpop merches
-
-## Purpose of App
-- To decrease the numbers of people been scammed by the kpop scammer
-- Create a new community for people to share their wts/wtt/wtb post with cleaner view, and eaiser filter feature with sorting in timestamp of the post
-- Distinguish the wts/wtt/wtb/go content in separate page for narrow down the filter.
 
 ## Features include as follow
 - User can search potential kpop scammer by:
@@ -41,7 +40,7 @@
     - The chance of increase exposure make the transaction to trade/sell/buy/host Go
     - Feedback from user whether they are able to find the current transaction is dealing with scammer before they make transaction.
 
-## Frontend Design Wireframe - pending
-<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Ffile%2FsgugzuZHb2vkmkQGvEEaKG%2FScammer-Kpop-Wireframe%3Ftype%3Dwhiteboard%26node-id%3D0%253A1%26t%3DBTU3bq8WT9CvXxf6-1" allowfullscreen></iframe>
+## **[Frontend Design Wireframe - pending](https://www.figma.com/file/sgugzuZHb2vkmkQGvEEaKG/Scammer-Kpop-Wireframe?type=whiteboard&node-id=0%3A1&t=BTU3bq8WT9CvXxf6-1)**
+
 
 ### DB Diagram - pending
